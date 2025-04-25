@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Farid-Nowrouzi/Farid-Nowrouzi/blob/main/Cosmic_FN_logo.png.jpg" width="250"/>
+</p>
 <h1 align="center">Hi, I'm Farid Nowrouzi 👨‍💻✨</h1>
 <h3 align="center">A Computer Science student with a deep passion for Machine Learning, Deep Learning, and Astrophysics✨</h3>
 
