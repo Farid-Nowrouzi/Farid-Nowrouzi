@@ -80,14 +80,20 @@ Machine Learning Algorithms, Deep Learning, Data Structures & Algorithms, Comput
 
 ---
 
-### 📫 Let's Connect!
-- Email: [faridnowrouzi24@gmail.com](mailto:faridnowrouzi24@gmail.com)
-- GitHub: [@faridnowrouzi](https://github.com/farid-nowrouzi)
-- <p align="center">
+## 📬 Let's Connect!
+
+<p align="center">
+  <a href="mailto:faridnowrouzi24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-faridnowrouzi24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/Farid-Nowrouzi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Farid--Nowrouzi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/farid-nowrouzi-a4abb931b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Farid%20Nowrouzi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Farid%20Nowrouzi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
 
 ---
 
