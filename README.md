@@ -83,7 +83,12 @@ Machine Learning Algorithms, Deep Learning, Data Structures & Algorithms, Comput
 ### 📫 Let's Connect!
 - Email: [faridnowrouzi24@gmail.com](mailto:faridnowrouzi24@gmail.com)
 - GitHub: [@faridnowrouzi](https://github.com/farid-nowrouzi)
-- LinkedIn: [Farid's LinkedIn](https://www.linkedin.com/in/farid-nowrouzi-a4a.)
+- <p align="center">
+  <a href="https://www.linkedin.com/in/farid-nowrouzi-a4abb931b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Farid%20Nowrouzi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 ---
 
 ### ✨ _“To code is to create. To analyze is to understand. To learn is to evolve.”
